@@ -1,0 +1,39 @@
+----------Hai sonno, oggi hai studiato tanto, è il momento diandare a letto.---------
+
+- Sono seduto sulla scrivania,vedo che sono le 00:30.
+- // Sbadiglio
+- Chiudo il libro && spengo il pc.
+- Mi alzo dalla sedia dando forza ai quadricipiti femorali.
+- Esco dalla stanza per andare in bagno per lavare i denti.
+- var denti = apro il mobile,prendo spazzolino e dentifricio lavo i denti
+- if (bagno===occupato) {
+    torno in camera e metto il pigiama
+    else {
+        entro e lavo i (denti)
+    }
+} 
+- esco dal bagno && ritono in camera.
+- spengo tutte le luci.
+- if (caldo===troppo) {
+    accendo il ventilatore e lo punto in faccia
+    else if (!caldo===troppo) {
+        apro la finestra
+    }
+}
+- if (finestra===aperta) {
+    il guaito del cane della vicina non mi fa dormire
+}
+
+Ho del scelte 2 :
+1 = Chiudo la finestra e accendo il ventilatore. 
+2 = Esco di casa vado dalla vicina per riolvere la questione.
+
+valutando la situazione,l'ora e le conseguenze.
+
+scelgo la prima ozione e mi metto a dormire.
+
+
+
+
+
+
